@@ -13,6 +13,6 @@
 
 🧰 Toolbox
 
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector" width="50" height="50"> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo vector" width="50" height="50">
 ---
 
