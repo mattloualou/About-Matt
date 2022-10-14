@@ -6,13 +6,13 @@
 
 * Call me anytime, we can make it work!
 * Likes to game! 🎮
-* Experience in Python, HTML, CSS, Javascript, C++, and my library is growing by the second! 🧠
 * Pleased to meet new people!
-
 ---
 
 🧰 Toolbox
 
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector" width="50" height="50"> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo vector" width="50" height="50">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector" width="50" height="50"> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo vector" width="50" height="50"> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo vector" width="50" height="50"> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# logo vector" width="50" height="50">
+
+#
 ---
 
